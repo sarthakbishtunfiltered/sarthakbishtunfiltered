@@ -15,7 +15,7 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@sarthakbishtunfiltered) 
 
   ## 🛂 Contributions
-  ![space-shooter.avif](https://user35052.na.imgto.link/public/20260922/space-shooter.avif)
+![heatmap.svg](https://user35052.na.imgto.link/public/20260922/heatmap.svg)
 
 ![wordmark.svg](https://user35052.na.imgto.link/public/20260922/wordmark.svg)
   
