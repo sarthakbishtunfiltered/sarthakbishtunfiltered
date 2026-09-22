@@ -9,9 +9,6 @@
 ![](https://streak-stats.demolab.com/?user=sarthakbishtunfiltered&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarthakbishtunfiltered&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarthakbishtunfiltered&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -19,7 +16,7 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@sarthakbishtunfiltered) 
 
   ## 🛂 Contributions
-  <img width="845" height="276" alt="image" src="https://github.com/user-attachments/assets/d0155479-abdb-451a-bf51-3981c5d87d3f" />
+  ![space-shooter.avif](https://user35052.na.imgto.link/public/20260922/space-shooter.avif)
 
 ![wordmark.svg](https://user35052.na.imgto.link/public/20260922/wordmark.svg)
   
