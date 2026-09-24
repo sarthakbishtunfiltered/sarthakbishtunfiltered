@@ -37,19 +37,13 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@sarthakbishtunfiltered)
 
-<!--#
-// need to host my out stats
+#
 
 ### 📊 Stats:
 ![heatmap.svg](https://user35052.na.imgto.link/public/20260922/heatmap.svg)
-![Sarthakbishtunfiltered's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sarthakbishtunfiltered&theme=default&chart=bars)
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 💰 Support
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@sarthakbishtunfiltered) 
+#
 
-### 🛂 Contributions
 
 ![wordmark.svg](https://user35052.na.imgto.link/public/20260922/wordmark.svg)
   
