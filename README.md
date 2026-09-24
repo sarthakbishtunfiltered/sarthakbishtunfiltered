@@ -8,7 +8,9 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakbishtunfiltered) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sarthakbishtunfiltered) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SarthakbyOC) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sarthakbishtunfiltered) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakbishtunfiltered@gmail.com) 
 
-# 💻 Tech Stack:
+---
+
+### 🧰 Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -19,16 +21,16 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 ![Convex](https://img.shields.io/badge/convex-%23F3694C.svg?style=for-the-badge&logo=convex&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![Sarthakbishtunfiltered's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sarthakbishtunfiltered&theme=default&chart=bars)
 ![Sarthakbishtunfiltered's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sarthakbishtunfiltered&type=contributions&theme=default)
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-  ## 💰 Support
+### 💰 Support
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@sarthakbishtunfiltered) 
 
-  ## 🛂 Contributions
+### 🛂 Contributions
 ![heatmap.svg](https://user35052.na.imgto.link/public/20260922/heatmap.svg)
 
 ![wordmark.svg](https://user35052.na.imgto.link/public/20260922/wordmark.svg)
