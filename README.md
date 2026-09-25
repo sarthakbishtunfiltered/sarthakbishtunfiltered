@@ -4,7 +4,8 @@
 
 **`Entrepreneur`**
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (<!--SUBS-START-->705k<!--SUBS-END--> subscribers).
+I'm the founder of Official Creations, a problem solver, content creator, software builder, and WSRO National Champion passionate about turning ideas into scalable products.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakbishtunfiltered) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sarthakbishtunfiltered) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SarthakbyOC) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sarthakbishtunfiltered) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakbishtunfiltered@gmail.com) 
 
@@ -27,7 +28,7 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Man, I love Java...](https://ytcards.demolab.com/?id=29k3eay4Lr4&title=Man%2C+I+love+Java...&lang=en&timestamp=1789574425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=628 "Man, I love Java...")](https://www.youtube.com/watch?v=29k3eay4Lr4)
+[![Man, I love Java...](https://ytcards.demolab.com/?id=29k3eay4Lr4&title=Man%2C+I+love+Java...&lang=en&timestamp=1789574425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=628 "Man, I love Java...")](https://youtu.be/mddCKhYvIAQ?si=YqNvBZBc_fuInPWS)
 [![Why Every Company Copied Netflix's Architecture (And Shouldn't Have)](https://ytcards.demolab.com/?id=I_of74HSHiA&title=Why+Every+Company+Copied+Netflix%27s+Architecture+%28And+Shouldn%27t+Have%29&lang=en&timestamp=1789417232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1332 "Why Every Company Copied Netflix's Architecture (And Shouldn't Have)")](https://www.youtube.com/watch?v=I_of74HSHiA)
 [![Why Rust Can't Replace C++](https://ytcards.demolab.com/?id=QNPwKMOQIKM&title=Why+Rust+Can%27t+Replace+C%2B%2B&lang=en&timestamp=1788354914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=990 "Why Rust Can't Replace C++")](https://www.youtube.com/watch?v=QNPwKMOQIKM)
 [![AI Has Broken Open Source](https://ytcards.demolab.com/?id=qazhWj8kYLo&title=AI+Has+Broken+Open+Source&lang=en&timestamp=1786993393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1545 "AI Has Broken Open Source")](https://www.youtube.com/watch?v=qazhWj8kYLo)
