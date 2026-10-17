@@ -1,5 +1,3 @@
-![hero.svg](https://user35052.na.imgto.link/public/20260922/hero.svg)
-
 # 🏄‍♂️ Sarthak Bisht Unfiltered
 
 **`Entrepreneur`**
@@ -33,11 +31,6 @@ I'm the founder of Official Creations, a problem solver, content creator, softwa
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@sarthakbishtunfiltered)
-
-#
-
-### 📊 Stats:
-![heatmap.svg](https://user35052.na.imgto.link/public/20260922/heatmap.svg)
 
 #
 
